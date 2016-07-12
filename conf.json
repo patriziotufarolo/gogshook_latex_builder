@@ -1,0 +1,12 @@
+{
+	"secret": "",
+	"ssl_enable": false,
+	"ssl_key": "",
+	"ssl_crt": "",
+	"port" : 8443,
+	"git" : {
+		"project_name": "",
+		"workdir": "",
+		"outdir": ""	
+	}
+}
